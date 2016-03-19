@@ -8,8 +8,9 @@ public class Main {
 		
 		System.out.println("Hello World !");
 
-		Knjiga k = new Knjiga();
+		Knjiga k1 = new Knjiga();
 		Knjiga k2 = new Knjiga();
+		Knjiga k3 = new Knjiga();
 		
 		System.out.println("Napravljene knjige.");
 		
